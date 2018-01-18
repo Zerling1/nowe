@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <cstdlib>
 #include <ctime>
-
+ZMIaNA
 using namespace std;
 
 // Typ elementów listy

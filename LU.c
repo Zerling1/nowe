@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
-
+Zmiana
 using namespace std;
 
 const double eps = 1e-12;
